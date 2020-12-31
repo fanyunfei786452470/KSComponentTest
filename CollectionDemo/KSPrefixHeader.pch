@@ -1,0 +1,18 @@
+//
+//  KSPrefixHeader.pch
+//  CollectionDemo
+//
+//  Created by 范云飞 on 2020/11/23.
+//
+
+#ifndef KSPrefixHeader_pch
+#define KSPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "KSHeader.h"
+#import "Masonry.h"
+#import "MJRefresh.h"
+
+#endif /* KSPrefixHeader_pch */
